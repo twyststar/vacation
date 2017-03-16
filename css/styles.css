@@ -1,3 +1,12 @@
-img {
+.row img {
   width: 100%;
+}
+.back {
+  background-image: url(http://germanfoundation.com/wp-content/uploads/2015/10/German-Flag-Wallpaper-1024x576.jpg);
+  background-size: contain;
+  opacity: 0.2;
+}
+
+.container {
+  padding-top: 20px;
 }
